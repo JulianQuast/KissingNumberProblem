@@ -13,30 +13,12 @@ It's not possible to proof values with this algorithm, but we can find lower lim
 Solutions of the project
 ========================
 
-Calculation times on a 64-bit quadcore, Intel core i3 CPU 550 @ 3.20 GHz, 4.0 GB DDR-RAM
+Solutions of 4/22 4/23 5/36 are available in solutions.md
 
-2 dimensions, 5 spheres: 0 seconds
-
-2 dimensions, 6 spheres: 0 seconds
-
-KissingNumber(2) = 6
-
-3 dimensions, 11 spheres: 0 seconds
-
-3 dimensions, 12 spheres: 0 seconds
-
-KissingNumber(3) = 12
-
-4 dimensions, 19 spheres: 0 seconds
-
-4 dimensions, 20 spheres: 0 seconds
-
-4 dimensions, 21 spheres: 0 seconds
-
-4 dimensions, 22 spheres: 0 seconds
+Missing solutions
 
 4 dimensions, 23 spheres:
 
-4 dimensions, 24 spheres:
+5 dimensions, 37 spheres and more
 
-KissingNumber(4) = 24
+6 dimensions and more
