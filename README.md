@@ -15,10 +15,6 @@ Solutions of the project
 
 Calculation times o a 32-bit singlecore, Intel pentium M 1.73 GHz, 1.5 GB SD-RAM
 
-1 dimension, 2 spheres:
-
-KissingNumber(1) = 2
-
 2 dimensions, 5 spheres: 2 seconds
 
 2 dimensions, 6 spheres: 6 seconds
