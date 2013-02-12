@@ -13,27 +13,27 @@ It's not possible to proof values with this algorithm, but we can find lower lim
 Solutions of the project
 ========================
 
-Calculation times o a 32-bit singlecore, Intel pentium M 1.73 GHz, 1.5 GB SD-RAM
+Calculation times on a 64-bit quadcore, Intel core i3 CPU 550 @ 3.20 GHz, 4.0 GB DDR-RAM
 
-2 dimensions, 5 spheres: 2 seconds
+2 dimensions, 5 spheres: 0 seconds
 
-2 dimensions, 6 spheres: 6 seconds
+2 dimensions, 6 spheres: 0 seconds
 
 KissingNumber(2) = 6
 
-3 dimensions, 11 spheres: 18 seconds
+3 dimensions, 11 spheres: 0 seconds
 
-3 dimensions, 12 spheres: 14 seconds
+3 dimensions, 12 spheres: 0 seconds
 
 KissingNumber(3) = 12
 
-4 dimensions, 19 spheres: 45 seconds
+4 dimensions, 19 spheres: 0 seconds
 
-4 dimensions, 20 spheres: 1 minute 58 seconds
+4 dimensions, 20 spheres: 0 seconds
 
-4 dimensions, 21 spheres: 4 minutes 45 seconds
+4 dimensions, 21 spheres: 0 seconds
 
-4 dimensions, 22 spheres:
+4 dimensions, 22 spheres: 0 seconds
 
 4 dimensions, 23 spheres:
 
