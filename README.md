@@ -35,7 +35,7 @@ KissingNumber(3) = 12
 
 4 dimensions, 20 spheres: 1 minute 58 seconds
 
-4 dimensions, 21 spheres:
+4 dimensions, 21 spheres: 4 minutes 45 seconds
 
 4 dimensions, 22 spheres:
 
