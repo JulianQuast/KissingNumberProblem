@@ -37,7 +37,7 @@ public class KissingNumberProblem {
                     double dist = diff.getAbs();
                     // Im schnittfall Änderung festlegen
                     if (dist < 2) {
-                        System.out.println("Berührung von Punkten " + i + " und " + j + " mit Abstand " + dist);
+                        System.out.println("Touch of spheres " + i + " and " + j + " , distance " + dist);
                         diff.multiply((2 - dist) / 3);
                         changes[i] = Point.sum(changes[i], diff);
                         diff.multiply(-1);
@@ -46,9 +46,9 @@ public class KissingNumberProblem {
                     }
                 }
             }
-            System.out.println("Ergebnis vor Schritt " + step);
+            System.out.println("Solution of step " + step);
             echo(p);
-            System.out.println("Änderung für Schritt " + step);
+            System.out.println("Change of step " + step);
             echo(changes);
             // Anwenden der Differenzen
             for (int i = 0; i < points; i++) {
