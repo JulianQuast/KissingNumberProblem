@@ -17,7 +17,7 @@ public class KissingNumberProblem {
 //        Point a = Point.rndPoint(3);
 //        a.echo();
 //        System.out.println(a.getAbs());
-        echo(kissTest(3, 11));
+        echo(kissTest(4, 21));
     }
 
     public static Point[] kissTest(int dim, int points) {
