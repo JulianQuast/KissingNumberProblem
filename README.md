@@ -1,7 +1,7 @@
 KissingNumberProblem
 ====================
 
-A small approach to the Kissing number problem
+A computational analysis of the Kissing number problem
 
 The class KissingNumberProblem.java contains the function kissTest.
 The first argument is the Dimension of the testing, the second argument is the number of spheres.
